@@ -1,0 +1,11 @@
+selenium==4.15.2
+pytest==7.4.3
+pytest-bdd==6.1.1
+pytest-html==4.1.1
+pytest-xdist==3.5.0
+behave==1.2.6
+webdriver-manager==4.0.1
+python-dotenv==1.0.0
+requests==2.31.0
+allure-pytest==2.13.2
+allure-behave==2.13.2
