@@ -1,0 +1,57 @@
+# Maven
+target/
+.m2/
+*.jar
+*.war
+*.ear
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+*.log
+
+# Test Reports
+test-results/
+reports/
+screenshots/
+logs/
+
+# Dependencies
+.classpath
+.gradle
+
+# Java
+*.class
+*.jar
+*.war
+
+# IDE specific
+.idea
+*.iml
+*.iws
+*.ipr
+
+# Misc
+*.bak
+*.tmp
+*.swp
+.env
+.env.local

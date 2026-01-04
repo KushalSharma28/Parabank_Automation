@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-current.dtd">
+<suite name="ParaBank Test Suite" parallel="false" thread-count="1">
+    <test name="ParaBank Cucumber Tests">
+        <classes>
+            <class name="com.parabank.runners.CucumberTestRunner"/>
+        </classes>
+    </test>
+</suite>
